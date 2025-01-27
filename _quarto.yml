@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: assets/favicon.ico
+  title: "financial-lab"
+  sidebar:
+    title: "Financial Lab"
+    logo: "assets/finlab-logo.png"
+    style: floating
+    contents:
+      - href: index.qmd
+        text: Home
+      - section: "Modules"
+        contents:
+        - modules/mod01-power-of-time.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    fontsize: 0.9em
+    css: styles.css
+    toc: true
+
+
+
