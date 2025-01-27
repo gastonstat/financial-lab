@@ -1,0 +1,7 @@
+---
+title: "Financial Lab"
+---
+
+This is an experimental website to explore various data visualizations and computational results published/shared in Personal Finance media.
+
+The idea is to help and guide students in their attempts to replicate, reverse engineer, expand, and critique visualizations, claims and results found across personal finance media outlets. 
