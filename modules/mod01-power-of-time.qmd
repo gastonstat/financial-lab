@@ -1,0 +1,72 @@
+---
+title: "The Power Of Time"
+---
+
+There are three main ingredients in investing:
+
+- __time__: how long you invest
+
+- __return__: what rate of return you get
+
+- __contribution__: the money you contribute
+
+From the most simplistic point of view, we have the classic formula of 
+compounding interest (future value):
+
+$$
+FV = P \times (1 + r)^n
+$$
+
+- $n$: number of years
+- $r$: annual rate of return
+- $P$: principal amount
+- $FV$: future value
+
+\
+
+## The Power of Starting Young
+
+![](images/mg-ep122019-power-starting-young.png)
+
+Savings per Month to be a millionaire at 65
+
+Assumptions:
+
+- 10% return in 20s
+- 9% return in 30s
+- 8% return in 40s
+- 7% return in 50s
+- 6% return after 60s
+
+
+\
+
+
+## Start Early and Save Often
+
+![](images/mg-ep072124-start-early-and-save-often.png)
+
+Savings per Month to be a millionaire at 65
+
+Assumed rate of return is 10% at age 20, decreasing 0.1% each year, reaching a terminal return of 5.5% at age 65.
+
+
+\
+
+
+## The Power of Time
+
+![](images/mg-ep060421-power-of-time.png)
+
+What investing $500/month over different lengths of time turns into.
+
+
+\
+
+
+## Wealth Multiplier
+
+![](images/mg-wealth-multiplier.png)
+
+Expected lifetime return for ages 0 to 20 is 10% per year, decreasing by 0.1% each year after 20, reaching a 5.5% terminal return at 65.
+

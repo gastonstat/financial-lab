@@ -1,0 +1,88 @@
+[
+  {
+    "objectID": "modules/mod01-power-of-time.html",
+    "href": "modules/mod01-power-of-time.html",
+    "title": "The Power Of Time",
+    "section": "",
+    "text": "There are three main ingredients in investing:\nFrom the most simplistic point of view, we have the classic formula of compounding interest (future value):\n\\[\nFV = P \\times (1 + r)^n\n\\]",
+    "crumbs": [
+      "Modules",
+      "The Power Of Time"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Financial Lab",
+    "section": "",
+    "text": "This is an experimental website to explore various data visualizations and computational results published/shared in Personal Finance media.\nThe idea is to help and guide students in their attempts to replicate, reverse engineer, expand, and critique visualizations, claims and results found across personal finance media outlets.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Data Analysis on Personal Finance Topics",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "modules/mod01-power-of-time.html#start-early-and-save-often",
+    "href": "modules/mod01-power-of-time.html#start-early-and-save-often",
+    "title": "The Power Of Time",
+    "section": "Start Early and Save Often",
+    "text": "Start Early and Save Often\n\nSavings per Month to be a millionaire at 65\nAssumed rate of return is 10% at age 20, decreasing 0.1% each year, reaching a terminal return of 5.5% at age 65.",
+    "crumbs": [
+      "Modules",
+      "The Power Of Time"
+    ]
+  },
+  {
+    "objectID": "modules/mod01-power-of-time.html#start-early-and-save-often-1",
+    "href": "modules/mod01-power-of-time.html#start-early-and-save-often-1",
+    "title": "The Power Of Time",
+    "section": "Start Early and Save Often",
+    "text": "Start Early and Save Often\n\nSavings per Month to be a millionaire at 65\nAssumed rate of return is 10% at age 20, decreasing 0.1% each year, reaching a terminal return of 5.5% at age 65.",
+    "crumbs": [
+      "Modules",
+      "The Power Of Time"
+    ]
+  },
+  {
+    "objectID": "modules/mod01-power-of-time.html#the-power-of-starting-young",
+    "href": "modules/mod01-power-of-time.html#the-power-of-starting-young",
+    "title": "The Power Of Time",
+    "section": "The Power of Starting Young",
+    "text": "The Power of Starting Young\n\nSavings per Month to be a millionaire at 65\nAssumptions:\n\n10% return in 20s\n9% return in 30s\n8% return in 40s\n7% return in 50s\n6% return after 60s",
+    "crumbs": [
+      "Modules",
+      "The Power Of Time"
+    ]
+  },
+  {
+    "objectID": "modules/mod01-power-of-time.html#the-power-of-time",
+    "href": "modules/mod01-power-of-time.html#the-power-of-time",
+    "title": "The Power Of Time",
+    "section": "The Power of Time",
+    "text": "The Power of Time\n\nWhat investing $500/month over different lengths of time turns into.",
+    "crumbs": [
+      "Modules",
+      "The Power Of Time"
+    ]
+  },
+  {
+    "objectID": "modules/mod01-power-of-time.html#wealth-multiplier",
+    "href": "modules/mod01-power-of-time.html#wealth-multiplier",
+    "title": "The Power Of Time",
+    "section": "Wealth Multiplier",
+    "text": "Wealth Multiplier\n\nExpected lifetime return for ages 0 to 20 is 10% per year, decreasing by 0.1% each year after 20, reaching a 5.5% terminal return at 65.",
+    "crumbs": [
+      "Modules",
+      "The Power Of Time"
+    ]
+  }
+]
